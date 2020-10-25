@@ -1,4 +1,7 @@
 # MSBDN-DFF
+
+https://cloud.tencent.com/developer/article/1654224
+
 The source code of CVPR 2020 paper **"Multi-Scale Boosted Dehazing Network with Dense Feature Fusion"** by  [Hang Dong](https://sites.google.com/view/hdong/%E9%A6%96%E9%A1%B5), [Jinshan Pan](https://jspan.github.io/), [Zhe Hu](https://zjuela.github.io/), Xiang Lei, [Xinyi Zhang](http://xinyizhang.tech), Fei Wang, [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
 
 ## Dependencies
